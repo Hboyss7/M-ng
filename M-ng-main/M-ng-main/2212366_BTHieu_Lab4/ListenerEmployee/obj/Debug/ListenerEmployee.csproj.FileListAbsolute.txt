@@ -1,0 +1,7 @@
+C:\Users\PC602\Downloads\M-ng-main\M-ng-main\2212366_BTHieu_Lab4\ListenerEmployee\bin\Debug\ListenerEmployee.exe.config
+C:\Users\PC602\Downloads\M-ng-main\M-ng-main\2212366_BTHieu_Lab4\ListenerEmployee\bin\Debug\ListenerEmployee.exe
+C:\Users\PC602\Downloads\M-ng-main\M-ng-main\2212366_BTHieu_Lab4\ListenerEmployee\bin\Debug\ListenerEmployee.pdb
+C:\Users\PC602\Downloads\M-ng-main\M-ng-main\2212366_BTHieu_Lab4\ListenerEmployee\obj\Debug\ListenerEmployee.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\M-ng-main\M-ng-main\2212366_BTHieu_Lab4\ListenerEmployee\obj\Debug\ListenerEmployee.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\M-ng-main\M-ng-main\2212366_BTHieu_Lab4\ListenerEmployee\obj\Debug\ListenerEmployee.exe
+C:\Users\PC602\Downloads\M-ng-main\M-ng-main\2212366_BTHieu_Lab4\ListenerEmployee\obj\Debug\ListenerEmployee.pdb

@@ -1,0 +1,14 @@
+D:\2212366\2212366_BTHieu_Lab4\2212366_BTHieu_Lab4\bin\Debug\2212366_BTHieu_Lab4.exe.config
+D:\2212366\2212366_BTHieu_Lab4\2212366_BTHieu_Lab4\bin\Debug\2212366_BTHieu_Lab4.exe
+D:\2212366\2212366_BTHieu_Lab4\2212366_BTHieu_Lab4\bin\Debug\2212366_BTHieu_Lab4.pdb
+D:\2212366\2212366_BTHieu_Lab4\2212366_BTHieu_Lab4\obj\Debug\TCPListener.csproj.AssemblyReference.cache
+D:\2212366\2212366_BTHieu_Lab4\2212366_BTHieu_Lab4\obj\Debug\TCPListener.csproj.CoreCompileInputs.cache
+D:\2212366\2212366_BTHieu_Lab4\2212366_BTHieu_Lab4\obj\Debug\2212366_BTHieu_Lab4.exe
+D:\2212366\2212366_BTHieu_Lab4\2212366_BTHieu_Lab4\obj\Debug\2212366_BTHieu_Lab4.pdb
+C:\Users\PC602\Downloads\M-ng-main\M-ng-main\2212366_BTHieu_Lab4\2212366_BTHieu_Lab4\bin\Debug\2212366_BTHieu_Lab4.exe.config
+C:\Users\PC602\Downloads\M-ng-main\M-ng-main\2212366_BTHieu_Lab4\2212366_BTHieu_Lab4\bin\Debug\2212366_BTHieu_Lab4.exe
+C:\Users\PC602\Downloads\M-ng-main\M-ng-main\2212366_BTHieu_Lab4\2212366_BTHieu_Lab4\bin\Debug\2212366_BTHieu_Lab4.pdb
+C:\Users\PC602\Downloads\M-ng-main\M-ng-main\2212366_BTHieu_Lab4\2212366_BTHieu_Lab4\obj\Debug\TCPListener.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\M-ng-main\M-ng-main\2212366_BTHieu_Lab4\2212366_BTHieu_Lab4\obj\Debug\TCPListener.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\M-ng-main\M-ng-main\2212366_BTHieu_Lab4\2212366_BTHieu_Lab4\obj\Debug\2212366_BTHieu_Lab4.exe
+C:\Users\PC602\Downloads\M-ng-main\M-ng-main\2212366_BTHieu_Lab4\2212366_BTHieu_Lab4\obj\Debug\2212366_BTHieu_Lab4.pdb
