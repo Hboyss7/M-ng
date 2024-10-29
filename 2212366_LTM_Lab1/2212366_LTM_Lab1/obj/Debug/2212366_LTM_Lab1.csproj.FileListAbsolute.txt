@@ -1,0 +1,10 @@
+C:\Users\PC602\Downloads\2212366_LTM_Lab1\2212366_LTM_Lab1\obj\Debug\2212366_LTM_Lab1.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\2212366_LTM_Lab1\2212366_LTM_Lab1\obj\Debug\_2212366_LTM_Lab1.Form1.resources
+C:\Users\PC602\Downloads\2212366_LTM_Lab1\2212366_LTM_Lab1\obj\Debug\_2212366_LTM_Lab1.Properties.Resources.resources
+C:\Users\PC602\Downloads\2212366_LTM_Lab1\2212366_LTM_Lab1\obj\Debug\2212366_LTM_Lab1.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\2212366_LTM_Lab1\2212366_LTM_Lab1\obj\Debug\2212366_LTM_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\2212366_LTM_Lab1\2212366_LTM_Lab1\bin\Debug\2212366_LTM_Lab1.exe.config
+C:\Users\PC602\Downloads\2212366_LTM_Lab1\2212366_LTM_Lab1\bin\Debug\2212366_LTM_Lab1.exe
+C:\Users\PC602\Downloads\2212366_LTM_Lab1\2212366_LTM_Lab1\bin\Debug\2212366_LTM_Lab1.pdb
+C:\Users\PC602\Downloads\2212366_LTM_Lab1\2212366_LTM_Lab1\obj\Debug\2212366_LTM_Lab1.exe
+C:\Users\PC602\Downloads\2212366_LTM_Lab1\2212366_LTM_Lab1\obj\Debug\2212366_LTM_Lab1.pdb
